@@ -1,4 +1,4 @@
-# Angular Calender Task
+# Angular Calendar Task
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
@@ -27,8 +27,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Angular Calender task detail 
-This is single page event calender application that adding, deleting, reading and updating an event with background color, title etc.
-it consist of day, week and month tabs.
+This is a single-page event calendar application that adds, deleting, reads, and updates an event with background color, title, etc.
+it consists of day, week, and month tabs.
 
 # Day Tab image of the calender task
 
@@ -36,16 +36,16 @@ it consist of day, week and month tabs.
 
 # How it working
 
-When user click on the specefic span inside the calender the popup will show an input form, and will say hi add an event by just some clicks.
-when it submit the input form with title, colors, start time and end time will show on the span that he/she selected.
-Actually I used the angular calender library. and there alot of things that I can do. If there still something missing Sorry for that. Actuall the task was getting delay and I tried to submit it soon. 
+When the user clicks on the specific span inside the calender the popup will show an input form and will say hi add an event with just some clicks.
+when it submits the input form with the title, colors, start time, and end timethen it will show on the span that he/she selected inside the calendar.
+Actually, I used the angular calendar library. and there are a lot of things that I can do. If there is still something missing Sorry for that. Actually, the task was getting delayed and I tried to submit it soon. 
 
-I did't not used any Rest Api. I am storing event data in an Array of Object when you load the browser window the only default data will display not the added one.
+I didn't use any Rest API. I am storing event data in an Array of Objects when you load the browser window the only default data will display not the added one.
 
-It's need to explore the angular calender to grab all the things that we actually need.
-Actually it need time read docs, to explore and find better things in angular calender.
+It needs to explore the angular calendar to grab all the things that we actually need.
+Actually, it needs time to read the docs, explore and find better things in the angular calendar.
 
 
-# Video of calender 
+# Video of calendar 
 
  [![Watch the video](https://github.com/hikmat12345/Angular-Calender-Task-/blob/main/src/calender.JPG)](https://github.com/hikmat12345/Angular-Calender-Task-/blob/main/src/angular-calendar-task.mp4)
