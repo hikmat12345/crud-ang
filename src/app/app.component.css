@@ -1,0 +1,61 @@
+
+        h3 {
+          margin: 0 0 10px;
+        }
+  
+        pre {
+          background-color: #f5f5f5;
+          padding: 15px;
+        }
+        .calender-add-colors{
+            display:flex;
+        }
+        .calender-add-colors div{
+            width:50%;
+            padding:5px;
+        }
+        .calender-add-colors input{
+            padding:0px;
+            cursor:pointer;
+        }
+        button.close {
+            border: none;
+            font-size: 38px;
+            padding: 0px;
+            background: no-repeat;
+            font-weight: bold;
+            outline: none;
+        } 
+        .form-control {
+            display: block;
+            width: 100%;
+            margin-top: 20px;
+        }
+        .cal-event-title {
+            font-size: 19px;
+        } 
+        .cal-week-view .cal-ends-within-day .cal-event {
+            BORDER-LEFT: 5PX SOLID;
+            border-right: 5px solid;
+        } 
+        .cal-week-view .cal-event { 
+            border-radius: 9px;
+            border-left: 7px solid;
+        }   
+        .cal-week-view .cal-day-headers span{ 
+            border-radius: 20px;
+            padding: 3px 6px 6px;
+            color: white;
+            opacity: initial !important;
+            margin-top: 10px;
+        }     
+        .fullcalender {
+            padding: 15px;
+        }
+        .btn-group .btn {
+            margin-right: 5px;
+            border-radius: 6px;
+        } 
+        .input-box{
+          margin-top: 10px;
+        }
