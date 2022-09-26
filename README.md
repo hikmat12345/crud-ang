@@ -30,9 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 This is a single-page event calendar application that adds, deleting, reads, and updates an event with background color, title, etc.
 it consists of day, week, and month tabs.
 
-# Day Tab image of the calender task
-
-![Alt text](https://github.com/hikmat12345/Angular-Calender-Task-/blob/main/src/calender.JPG "Calender Task Image")
 
 # How it working
 
@@ -49,3 +46,18 @@ Actually, it needs time to read the docs, explore and find better things in the 
 # Video of calendar 
 
  [![Watch the video](https://github.com/hikmat12345/Angular-Calender-Task-/blob/main/src/calender.JPG)](https://github.com/hikmat12345/Angular-Calender-Task-/blob/main/src/angular-calendar-task.mp4)
+ 
+ # Monthly Tab image of the calender task
+
+![Alt text](https://github.com/hikmat12345/Angular-Calender-Task-/blob/main/src/calender.JPG "Mothly Calender Tab Image")
+
+
+# Weekly Tab image of the calender task
+
+![Alt text](https://github.com/hikmat12345/Angular-Calendar-Task-/blob/main/src/weekly.JPG "Weekly Calender Tab Image")
+
+
+# Daily Tab image of the calender task
+
+![Alt text](https://github.com/hikmat12345/Angular-Calendar-Task-/blob/main/src/monthly.JPG "Daily Calender Tab Image")
+
