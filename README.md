@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+This is single page event calender application that adding, deleting, reading and updating an event with background color, title etc.
+it consist of day, week and month tabs. 
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+When user click on the specefic span inside the calender the popup will show an input form, and will say hi add an event by just some clicks.
+when it submit the input form with title, colors, start time and end time will show on the span that he/she selected.
+Actually I used the angular calender library. and there alot of things that I can do. If there still something missing Sorry for that. Actuall the task was getting delay and I tried to submit it soon. It's need to explore the angular calender to grab all the things that we actually need.
+Actually it need time read docs, to explore and find better things in angular calender.
+
