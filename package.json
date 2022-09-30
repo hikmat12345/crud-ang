@@ -1,5 +1,5 @@
 {
-  "name": "Calendar task",
+  "name": "angular-event-calendar-task",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -15,18 +15,17 @@
     "@angular/compiler": "^14.2.0",
     "@angular/core": "^14.2.0",
     "@angular/forms": "^14.2.0",
-    "@angular/localize": "^14.2.0",
     "@angular/platform-browser": "^14.2.0",
     "@angular/platform-browser-dynamic": "^14.2.0",
     "@angular/router": "^14.2.0",
-    "@mobiscroll/angular": "https://npm.mobiscroll.com/@mobiscroll/angular-trial/-/angular-trial-5.18.3.tgz",
     "@ng-bootstrap/ng-bootstrap": "^13.0.0",
-    "@popperjs/core": "^2.10.2",
+    "@popperjs/core": "^2.11.6",
     "angular-calendar": "^0.30.1",
     "angularx-flatpickr": "^7.0.0",
-    "bootstrap": "^5.2.0",
+    "bootstrap": "^5.2.1",
     "date-fns": "^2.29.3",
     "flatpickr": "^4.6.13",
+    "ngx-bootstrap": "^9.0.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"

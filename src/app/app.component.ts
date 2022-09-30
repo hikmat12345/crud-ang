@@ -49,12 +49,10 @@ import {
     };
   @Component({
     selector: 'app-root',  
-
-    changeDetection: ChangeDetectionStrategy.OnPush,
     styleUrls: ['./app.component.css'],
     templateUrl: './app.component.html',
   })
-  export class DemoComponent {
+  export class CalendarComp {
     // popups 
     @ViewChild('modalContent', { static: true }) modalContent: TemplateRef<any>;
     @ViewChild('modalContent2', { static: true }) modalContent2: TemplateRef<any>;
@@ -77,8 +75,7 @@ import {
         endHr: new FormControl(),
         endMin:new FormControl(),
         startTime: new  FormControl("01:00:00"),
-        endTime: new  FormControl('01:15:00'),
-         
+        endTime: new  FormControl('01:15:00'), 
       });
     hr:any;
     min:any;
