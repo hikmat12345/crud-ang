@@ -1,4 +1,4 @@
-# AngularEventCalendarTask
+# Angular Calendar Task
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
@@ -25,3 +25,39 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Angular Calender task detail 
+This is a single-page event calendar application that adds, deleting, reads, and updates an event with background color, title, etc.
+it consists of day, week, and month tabs.
+
+
+# How it working
+
+When the user clicks on the specific span inside the calender the popup will show an input form and will say hi add an event with just some clicks.
+when it submits the input form with the title, colors, start time, and end timethen it will show on the span that he/she selected inside the calendar.
+Actually, I used the angular calendar library. and there are a lot of things that I can do. If there is still something missing Sorry for that. Actually, the task was getting delayed and I tried to submit it soon. 
+
+I didn't use any Rest API. I am storing event data in an Array of Objects when you load the browser window the only default data will display not the added one.
+
+It needs to explore the angular calendar to grab all the things that we actually need.
+Actually, it needs time to read the docs, explore and find better things in the angular calendar.
+
+
+# Video of calendar 
+
+ [![Watch the video](https://github.com/hikmat12345/Angular-Calender-Task-/blob/main/src/assets/calender.JPG)](https://github.com/hikmat12345/Angular-Calender-Task-/blob/main/src/assets/angular-calendar-task.mp4)
+ 
+ # Monthly Tab image of the calender task
+
+![Alt text](https://github.com/hikmat12345/Angular-Calender-Task-/blob/main/src/assets/calender.JPG "Mothly Calender Tab Image")
+
+
+# Weekly Tab image of the calender task
+
+![Alt text](https://github.com/hikmat12345/Angular-Calendar-Task-/blob/main/src/assets/weekly.JPG "Weekly Calender Tab Image")
+
+
+# Daily Tab image of the calender task
+
+![Alt text](https://github.com/hikmat12345/Angular-Calendar-Task-/blob/main/src/monthly.JPG "Daily Calender Tab Image")
+
